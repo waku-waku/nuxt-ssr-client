@@ -8,36 +8,36 @@ const workboxSW = new self.WorkboxSW({
 
 workboxSW.precache([
   {
-    "url": "/_nuxt/app.c6e94f40c981fb843a2b.js",
-    "revision": "88d05bf5f80c810b82385a089cdc3649"
+    "url": "/_nuxt/app.dc9c7b154410e90b0057.js",
+    "revision": "1ee59f068cd1c46011eda45e088d0e64"
   },
   {
     "url": "/_nuxt/common.e395a740e4d937d51f45.js",
     "revision": "f4c1b6621c461a40e1d03b81fa7ef09d"
   },
   {
-    "url": "/_nuxt/layouts/default.a6d7dabb059c3e3da5eb.js",
-    "revision": "42b429a8add8015164cab369b04ee071"
+    "url": "/_nuxt/layouts/default.db76d73495ede0a7eb4c.js",
+    "revision": "d24369b40125f07b9ada4bb1fa39971d"
   },
   {
-    "url": "/_nuxt/manifest.4f7173fa327665a94f66.js",
-    "revision": "8204c847a8b7ed19626650f9d46074e5"
+    "url": "/_nuxt/manifest.27e473c4fe91caa1fb47.js",
+    "revision": "8380f22389b009b88e6062c6ec954f83"
   },
   {
-    "url": "/_nuxt/pages/foods/_id.96b29808d60deeb95bd9.js",
-    "revision": "45bb08ec3f84f75443c915cebb8d5329"
+    "url": "/_nuxt/pages/foods/_id.457f67985c3390b6a647.js",
+    "revision": "052e527ac42d2d4b2af62b044d417ce2"
   },
   {
-    "url": "/_nuxt/pages/index.dc96dbeebd9f017399f9.js",
-    "revision": "3182500580057d219d6552d7627c4fd6"
+    "url": "/_nuxt/pages/index.e734c5b5459ebeac930b.js",
+    "revision": "1fd7169465d4a15143cba4565d294789"
   },
   {
-    "url": "/_nuxt/pages/login/index.777fd019454184d6854f.js",
-    "revision": "61ccf10bedee02b5cfa83b6cd5165585"
+    "url": "/_nuxt/pages/login/index.9af7058f6a075c5d1ffc.js",
+    "revision": "3df322c92d064dbc7aa79ce7900da63c"
   },
   {
-    "url": "/_nuxt/pages/posts/index.351f77756084e6442fe3.js",
-    "revision": "a859c8f9fa448e99e990ea0f1491b1b1"
+    "url": "/_nuxt/pages/posts/index.f5daf258d4a99a3be824.js",
+    "revision": "9a6ed1b652baa14d01735f2bceec4fe9"
   }
 ])
 
