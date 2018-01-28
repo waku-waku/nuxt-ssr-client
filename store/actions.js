@@ -4,7 +4,7 @@ import config from '../config'
 axios.defaults.headers.common = {
   'Content-Type': 'application/x-www-form-urlencoded',
   'X-Requested-With': 'XMLHttpRequest',
-  'Access-Control-Allow-Origin': '*',
+  'Access-Control-Allow-Origin': 'https://determined-saha-480380.netlify.com/',
   'Access-Control-Allow-Credentials': 'true'
 }
 
